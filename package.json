@@ -1,0 +1,27 @@
+{
+  "name": "ng-atomic-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atng.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "atng": "./atng.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^1.2.3",
+    "async": "^2.5.0",
+    "chalk": "^2.0.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.11.0",
+    "common-tags": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}
